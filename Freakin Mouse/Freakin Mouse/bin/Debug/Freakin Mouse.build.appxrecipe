@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUANGNGUYEN</Machine>
+    <WindowsUser>Jame Moriarty</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a2fe9816-af65-436e-a6d3-db5f2257e8f7</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\Freakin Mouse.exe">
+      <PackagePath>Freakin Mouse.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\Cheese.png">
+      <PackagePath>Assets\Cheese.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\down.png">
+      <PackagePath>Assets\down.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\ghost.png">
+      <PackagePath>Assets\ghost.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\go.png">
+      <PackagePath>Assets\go.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseDown2.png">
+      <PackagePath>Assets\MouseDown2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseDown3.png">
+      <PackagePath>Assets\MouseDown3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseLeft2.png">
+      <PackagePath>Assets\MouseLeft2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseLeft3.png">
+      <PackagePath>Assets\MouseLeft3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseRight2.png">
+      <PackagePath>Assets\MouseRight2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseRight3.png">
+      <PackagePath>Assets\MouseRight3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseUp.png">
+      <PackagePath>Assets\MouseUp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseUp2.png">
+      <PackagePath>Assets\MouseUp2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\MouseUp3.png">
+      <PackagePath>Assets\MouseUp3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\up.png">
+      <PackagePath>Assets\up.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\die.mp3">
+      <PackagePath>Assets\die.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\eat.mp3">
+      <PackagePath>Assets\eat.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\mouserun.mp3">
+      <PackagePath>Assets\mouserun.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\gach.jpg">
+      <PackagePath>Assets\gach.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\Assets\san.jpg">
+      <PackagePath>Assets\san.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\Freakin Mouse.xr.xml">
+      <PackagePath>Freakin Mouse.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jame moriarty\documents\visual studio 2013\Projects\Freakin Mouse\Freakin Mouse\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
